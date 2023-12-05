@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activitat_4_M8</string>
+    <string name="Crear_alarma">Create alarm</string>
+    <string name="Intent_2">visit pages</string>
+    <string name="Poner_Contactos">Set Contact</string>
+    <string name="Contactos">Contact</string>
+    <string name="Alarma">Alarm</string>
+    <string name="Intentos">Intent</string>
+    <string name="Poner_alarma">set alarm</string>
+    <string name="nom">Name</string>
+    <string name="Email">Email</string>
+</resources>

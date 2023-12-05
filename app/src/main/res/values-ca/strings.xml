@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activitat_4_M8</string>
+    <string name="Crear_alarma">Crea alarma</string>
+    <string name="Intent_2">verure pagines</string>
+    <string name="Poner_Contactos">Posar Contactes</string>
+    <string name="Contactos">Contactes</string>
+    <string name="Alarma">Alarma</string>
+    <string name="Intentos">Intent</string>
+    <string name="Poner_alarma">Posar alarma</string>
+    <string name="nom">nom</string>
+    <string name="Email">Email</string>
+</resources>
